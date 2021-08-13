@@ -1,7 +1,6 @@
 import rpa as r
 import pyautogui as aut
 import pandas as pd
-import os
 
 #--------------------------< Variaveis Globais >--------------------#
 

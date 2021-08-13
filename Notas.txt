@@ -1,17 +1,10 @@
-pip install pyautogui rpa opencv-python pandas
+pip install pyautogui https://pyautogui.readthedocs.io/en/latest/index.html
 pip install rpa  - https://github.com/tebelorg/RPA-Python
-pip install opencv-python
 pip install pandas
-pip install openpyxl
-pip install xlrd
-pip install rpaframework  -  https://rpaframework.org/
-pip install schedule - Agendamento de Tarefas - https://pypi.org/project/schedule/
 
+Instruções
 
-py.exe -m pip install --user Pillow
-
-https://pyautogui.readthedocs.io/en/latest/index.html
-
-https://tagui.readthedocs.io/en/latest/setup.html
-
-https://www.youtube.com/watch?v=Zbw48AJi2rs&ab_channel=PythonDS
+1. O objetivo deste desafio é criar um fluxo de trabalho que insira dados de uma planilha nos campos de formulário na tela.
+2. Cuidado! Os campos mudarão de posição na tela após cada envio ao longo de 10 rodadas, portanto, o fluxo de trabalho deve identificar corretamente onde cada registro de planilha deve ser digitado todas as vezes.
+3. A contagem regressiva real do desafio começará assim que você clicar no botão Iniciar até lá, você pode enviar o formulário quantas vezes desejar sem receber penalidades.
+Boa sorte!
