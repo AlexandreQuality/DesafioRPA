@@ -1,0 +1,17 @@
+pip install pyautogui rpa opencv-python pandas
+pip install rpa  - https://github.com/tebelorg/RPA-Python
+pip install opencv-python
+pip install pandas
+pip install openpyxl
+pip install xlrd
+pip install rpaframework  -  https://rpaframework.org/
+pip install schedule - Agendamento de Tarefas - https://pypi.org/project/schedule/
+
+
+py.exe -m pip install --user Pillow
+
+https://pyautogui.readthedocs.io/en/latest/index.html
+
+https://tagui.readthedocs.io/en/latest/setup.html
+
+https://www.youtube.com/watch?v=Zbw48AJi2rs&ab_channel=PythonDS
