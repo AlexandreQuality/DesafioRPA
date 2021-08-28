@@ -2,7 +2,8 @@
 
  ✔ Preenchimento de Cadastro Dinamico 
 
-# Desenvolvedor: Alexandre Moutinho - 📞 (41)-99833-7212
+# Desenvolvedor: 
+🧔 Alexandre Moutinho - 📞 (41)-99833-7212
 
 ## 📦 Tecnologias utilizadas para construção:
 
